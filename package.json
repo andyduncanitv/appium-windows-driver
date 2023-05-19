@@ -1,5 +1,5 @@
 {
-  "name": "appium-windows-driver",
+  "name": "itv-appium-windows-driver",
   "version": "2.7.0",
   "description": "Appium bridge to WinAppDriver",
   "keywords": [
